@@ -26,6 +26,10 @@
             android:name="com.example.test_git.Second"
             android:label="@string/title_activity_second" >
         </activity>
+        <activity
+            android:name="com.example.test_git.Moretest"
+            android:label="@string/title_activity_moretest" >
+        </activity>
     </application>
 
 </manifest>
