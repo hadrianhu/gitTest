@@ -19,7 +19,7 @@ public class MainActivity extends Activity {
 
 	public void love(View v){
 		Log.d("love", "its working");
-		Intent i = new Intent(this,Moretest.class);
+		Intent i = new Intent(this,Second.class);
 		startActivity(i);
 	}
 	
